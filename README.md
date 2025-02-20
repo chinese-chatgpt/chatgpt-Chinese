@@ -1,7 +1,7 @@
 # 国内免费 ChatGPT 镜像网站整理：支持 GPT-4 和 4o，无需翻墙 【2025/02/21 更新】
 
 > **更新时间：2025/02/21**   
-> **作者：chinese-chatgpt**   
+> **作者：chinese-chatgpt**    
 
 **如何在国内使用ChatGPT**？如果您想在国内使用ChatGPT，我们为您整理了最新的国内可用 **ChatGPT 镜像网站**资源。
 
