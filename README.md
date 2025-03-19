@@ -3,14 +3,14 @@
 > **更新：2025/03/19**    
 > **作者：chinese-chatgpt**          
 
-**如何在国内使用ChatGPT**？如果您想在国内使用ChatGPT，我们为您整理了最新的国内可用 **ChatGPT 镜像网站**资源。
+**如何在国内使用ChatGPT**？如果您想在国内使用ChatGPT，我们为您整理了最新的国内可用 [**ChatGPT 镜像网站**](https://chat.yixiaai.com) 资源。
 
-这些镜像网站**无需翻墙**，并**支持ChatGPT-4**，您可以**无限制地使用GPT-4o、o1**及其中文版功能。
+这些 [**ChatGPT镜像网站**](https://chat.lanjing.ai) **无需翻墙**，并**支持ChatGPT-4**，您可以**无限制地使用GPT-4o、o1**及其中文版功能。
 
 
 ## 为什么选择使用 ChatGPT镜像网站？
 
-**ChatGPT镜像网站**是专为国内用户开发的中文版平台，提供了一种**无需翻墙即可使用ChatGPT**的便捷方式。其主要优势包括：
+[**ChatGPT镜像网站**](https://chat.yixiaai.com) 是专为国内用户开发的中文版平台，提供了一种**无需翻墙即可使用ChatGPT**的便捷方式。其主要优势包括：
 
 - **无需翻墙**：镜像网站在国内服务器上运行，**无需VPN或代理**，用户可以直接使用ChatGPT。
 - **中文优化**：提供优化的中文界面和语言支持，提升中文对话的流畅性和自然度。
@@ -35,7 +35,7 @@
 
 ## 国内免费使用指南
 
-1. **选择镜像站**：从推荐列表中选择一个站点，如**一下AI ([www.yixiaai.com](https://www.yixiaai.com/))** 或**AI智慧岛 ([chat.lify.vip](https://chat.lify.vip/))** 。
+1. **选择镜像站**：从推荐列表中选择一个站点，如**一下AI ([chat.yixiaai.com](https://chat.yixiaai.com/))** 或**AI智慧岛 ([chat.lify.vip](https://chat.lify.vip/))** 。
 2. **注册或使用**：无需注册，按照提示用微信扫码即可。
 3. **选择ChatGPT版本**：根据需求选择GPT-4、GPT-3.5或GPT-4o、o1模型。
 4. **输入问题**：在聊天界面输入问题或任务，即可收到智能回答。
